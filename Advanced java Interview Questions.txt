@@ -1,0 +1,49 @@
+57. Say syntax of JSP Directives.
+=><%@ %>
+58. Name JSP Dierectives and there uses.
+1page
+2.include
+3.taglib
+===================================================
+59. Explain the attributes of include directive.
+=>
+60. Explain the attributes of taglib directive.
+61. Name the JSP scopes and explain them.
+1.application
+2.page
+3.session
+4.request
+62. Tell syntax of JSP EL.
+63. Name implicit objects in EL.
+1.session
+2.exception
+3.request
+4.response
+5.page
+6.application
+7.
+64. How to print the following using EL
+	application.setAttribute("course","dac");
+66. How to show request parameter using EL.
+67. How to display java bean property value using EL.
+68. What are the ways to print the value of Map ( that is in any jsp scope) using EL?
+69. How to show any java array or collection value using EL.
+70. How to send request parameter using html anchor tag?
+71. Name the methods that are used to get the cookie name and cookie value from the cookie object.
+72. How to check the cookie is attached with the request or not?
+73. How to store the bean object created using useBean tag in any jsp scope?
+74. What is ORM?
+75. What is hibernate?
+76. Explain SessionFactory, Session, Transaction hibernate objects.
+77. What is hibernate cfg file?
+78. What is hibernate hbm file?
+79. Which query languages are supported in hibernate?
+80. How DB portability is achieved in hibernate?
+===============================
+81. Explain following Annotation used in hibernate?
+	@Entity
+ 	@Id
+	@Table
+	@Column
+82. Query interface is used for what?
+83. Explain syntax and convension for HQL?
